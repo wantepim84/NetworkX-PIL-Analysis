@@ -1,0 +1,6 @@
+MDAnalysis
+networkx
+numpy
+matplotlib
+plotly
+scipy
